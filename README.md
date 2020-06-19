@@ -1,2 +1,2 @@
-# yositaths.io
+# Yosita Thongsi
 Hello to my site :)
